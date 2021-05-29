@@ -1,2 +1,2 @@
 # DataStuctures
-Exhaustive list of my data structure programs
+Exhaustive list of my data structure solved problems.
